@@ -17,6 +17,7 @@
 # No need to call init of superclass "Block", since Block is an abstract class.
 """Well known building blocks for Convolutional networks."""
 
+import math
 import abc
 
 import enum
