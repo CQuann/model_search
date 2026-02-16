@@ -14,6 +14,7 @@
 """Useful constants."""
 
 SOME_CONSTANT = 12341234
+CONSTANT = "hello world"
 DEFAULT_DNN = "model_search/model_search/configs/dnn_config.pbtxt"
 DEFAULT_CNN = "model_search/model_search/configs/cnn_config.pbtxt"
 DEFAULT_RNN_ALL = (
